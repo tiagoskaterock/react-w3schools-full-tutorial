@@ -4,8 +4,8 @@
 ![Node.js](https://img.shields.io/badge/Node.js-22.19.0-339933?logo=node.js) 
 ![npm](https://img.shields.io/badge/npm-10.9.3-CB3837?logo=npm)  
 
-Este repositório contém implementações e exemplos realizados durante o estudo de React utilizando o material disponibilizado pela W3Schools. O foco está na compreensão conceitual de componentes, propriedades e estados.  
+This repository contains implementations and examples developed during the study of React using the material provided by W3Schools. The focus is on the conceptual understanding of components, properties, and states.
 
-O projeto é desenvolvido em caráter acadêmico, visando registro de aprendizado e suporte para estudos futuros em aplicações modernas com React e JavaScript.  
+The project is developed for academic purposes, aiming to document learning and provide support for future studies in modern applications with React and JavaScript.
 
 <img src="1.png" alt="w3schoools-website">
